@@ -1,0 +1,22 @@
+body {
+    background-color: #f5f7fa;
+}
+
+.hero {
+    background: url("https://images.unsplash.com/photo-1503676260728-1c00da094a0b") center/cover no-repeat;
+    color: white;
+    padding: 130px 20px;
+    border-radius: 12px;
+}
+
+.footer-dark {
+    background-color: #222;
+    color: #bbb;
+    padding: 40px 0;
+    margin-top: 60px;
+}
+
+.footer-dark a {
+    color: #e2e2e2;
+    text-decoration: none;
+}
